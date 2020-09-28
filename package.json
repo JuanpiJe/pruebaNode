@@ -1,0 +1,15 @@
+{
+  "name": "dh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuskin/product-recommendation": "^1.3.2",
+    "popular-movie-quotes": "^1.2.4"
+  }
+}
